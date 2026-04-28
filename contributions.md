@@ -24,7 +24,7 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 
 | April 26th | [link to my contribution](https://github.com/processing/p5.js-website/pull/1362) |  p5.js  | Create pr for fix to p5.sound landing pages not falling back to english |
-| April 26th | [link to my contribution](hhttps://www.openstreetmap.org/changeset/181862701#map=15/51.05967/-114.28742) |  OpenStreetMap  |  Added footbpath, bridge, and pond in forest area off of Horizon View Rd.  |
+| April 26th | [link to my contribution](https://www.openstreetmap.org/changeset/181862701#map=15/51.05966/-114.28744) |  OpenStreetMap  |  Added footbpath, bridge, and pond in forest area off of Horizon View Rd.  |
 | April 22nd | [link to my contribution](https://github.com/processing/p5.js-website/issues/1346#issue-4296750767) |  p5.js  | Create issue report for p5.sound landing pages not falling back to english |
 | April 22nd | [link to my contribution](https://github.com/processing/p5.js-website/issues/1346#issue-4296750767) |  p5.js  | Create issue report for p5.sound landing pages not falling back to english |
 | April 8th | [link to my contribution](https://github.com/processing/p5.js-website/pull/1325/commits) |  p5.js  |  Attempt to fix ColorMode in various languages  |
